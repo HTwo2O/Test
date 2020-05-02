@@ -1,9 +1,3 @@
-import gdut.dyw.hospital.common.util.CheckUtils;
-import org.junit.Test;
-import org.junit.runner.RunWith;
-
-
-
 public class CheckTest {
 
     @Test
